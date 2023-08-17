@@ -1,0 +1,1001 @@
+,period,stateid,stateDescription,sectorid,sectorName,price,price-units
+0,2020-05,CO,Colorado,RES,residential,11.93,cents per kilowatthour
+1,2020-06,AL,Alabama,RES,residential,12.84,cents per kilowatthour
+2,2020-03,ENC,East North Central,RES,residential,13.48,cents per kilowatthour
+3,2020-04,CT,Connecticut,RES,residential,23.79,cents per kilowatthour
+4,2020-04,DE,Delaware,RES,residential,12.85,cents per kilowatthour
+5,2020-04,DC,District of Columbia,RES,residential,12.41,cents per kilowatthour
+6,2020-04,FL,Florida,RES,residential,11.44,cents per kilowatthour
+7,2020-05,AK,Alaska,RES,residential,22.87,cents per kilowatthour
+8,2020-05,AZ,Arizona,RES,residential,12.86,cents per kilowatthour
+9,2020-06,TX,Texas,RES,residential,11.76,cents per kilowatthour
+10,2020-06,UT,Utah,RES,residential,10.67,cents per kilowatthour
+11,2020-06,VT,Vermont,RES,residential,19.72,cents per kilowatthour
+12,2020-06,VA,Virginia,RES,residential,12.31,cents per kilowatthour
+13,2021-03,DC,District of Columbia,RES,residential,12.88,cents per kilowatthour
+14,2020-04,MD,Maryland,RES,residential,13.2,cents per kilowatthour
+15,2020-04,MA,Massachusetts,RES,residential,23.15,cents per kilowatthour
+16,2020-04,MI,Michigan,RES,residential,16.0,cents per kilowatthour
+17,2020-04,MN,Minnesota,RES,residential,12.91,cents per kilowatthour
+18,2020-05,CT,Connecticut,RES,residential,24.21,cents per kilowatthour
+19,2020-05,DE,Delaware,RES,residential,13.42,cents per kilowatthour
+20,2020-06,MTN,Mountain,RES,residential,12.13,cents per kilowatthour
+21,2020-06,PACC,Pacific Contiguous,RES,residential,16.73,cents per kilowatthour
+22,2020-04,IL,Illinois,RES,residential,13.96,cents per kilowatthour
+23,2020-04,IN,Indiana,RES,residential,12.89,cents per kilowatthour
+24,2020-04,IA,Iowa,RES,residential,12.16,cents per kilowatthour
+25,2020-04,KS,Kansas,RES,residential,13.28,cents per kilowatthour
+26,2020-04,KY,Kentucky,RES,residential,11.17,cents per kilowatthour
+27,2020-04,LA,Louisiana,RES,residential,9.43,cents per kilowatthour
+28,2020-04,ME,Maine,RES,residential,16.81,cents per kilowatthour
+29,2020-05,AR,Arkansas,RES,residential,10.5,cents per kilowatthour
+30,2020-05,CA,California,RES,residential,18.61,cents per kilowatthour
+31,2020-06,RI,Rhode Island,RES,residential,19.28,cents per kilowatthour
+32,2020-06,SC,South Carolina,RES,residential,12.82,cents per kilowatthour
+33,2020-06,SD,South Dakota,RES,residential,12.11,cents per kilowatthour
+34,2020-06,TN,Tennessee,RES,residential,10.88,cents per kilowatthour
+35,2020-07,PA,Pennsylvania,RES,residential,13.32,cents per kilowatthour
+36,2020-07,RI,Rhode Island,RES,residential,19.52,cents per kilowatthour
+37,2020-07,SC,South Carolina,RES,residential,12.59,cents per kilowatthour
+38,2020-07,SD,South Dakota,RES,residential,12.26,cents per kilowatthour
+39,2020-08,ME,Maine,RES,residential,16.83,cents per kilowatthour
+40,2020-08,MD,Maryland,RES,residential,12.47,cents per kilowatthour
+41,2020-03,MA,Massachusetts,RES,residential,22.73,cents per kilowatthour
+42,2020-03,MI,Michigan,RES,residential,15.9,cents per kilowatthour
+43,2020-03,MN,Minnesota,RES,residential,12.57,cents per kilowatthour
+44,2020-03,MS,Mississippi,RES,residential,11.46,cents per kilowatthour
+45,2020-03,MO,Missouri,RES,residential,10.31,cents per kilowatthour
+46,2020-04,GA,Georgia,RES,residential,11.57,cents per kilowatthour
+47,2020-04,HI,Hawaii,RES,residential,32.75,cents per kilowatthour
+48,2020-07,NEW,New England,RES,residential,20.71,cents per kilowatthour
+49,2020-07,MAT,Middle Atlantic,RES,residential,16.18,cents per kilowatthour
+50,2020-03,IA,Iowa,RES,residential,11.81,cents per kilowatthour
+51,2020-03,KS,Kansas,RES,residential,12.9,cents per kilowatthour
+52,2020-10,MTN,Mountain,RES,residential,11.8,cents per kilowatthour
+53,2020-10,PACC,Pacific Contiguous,RES,residential,17.66,cents per kilowatthour
+54,2020-10,PACN,Pacific Noncontiguous,RES,residential,26.74,cents per kilowatthour
+55,2020-10,US,U.S. Total,RES,residential,13.66,cents per kilowatthour
+56,2020-11,SAT,South Atlantic,RES,residential,11.91,cents per kilowatthour
+57,2020-11,ESC,East South Central,RES,residential,11.82,cents per kilowatthour
+58,2020-11,WSC,West South Central,RES,residential,11.42,cents per kilowatthour
+59,2020-11,MTN,Mountain,RES,residential,11.4,cents per kilowatthour
+60,2020-11,PACC,Pacific Contiguous,RES,residential,16.69,cents per kilowatthour
+61,2020-11,PACN,Pacific Noncontiguous,RES,residential,25.96,cents per kilowatthour
+62,2020-11,US,U.S. Total,RES,residential,13.31,cents per kilowatthour
+63,2020-12,NV,Nevada,RES,residential,11.17,cents per kilowatthour
+64,2020-09,VT,Vermont,RES,residential,19.87,cents per kilowatthour
+65,2020-09,VA,Virginia,RES,residential,12.02,cents per kilowatthour
+66,2020-09,WA,Washington,RES,residential,10.19,cents per kilowatthour
+67,2020-09,WV,West Virginia,RES,residential,12.23,cents per kilowatthour
+68,2020-09,WI,Wisconsin,RES,residential,14.86,cents per kilowatthour
+69,2020-09,WY,Wyoming,RES,residential,11.83,cents per kilowatthour
+70,2020-10,NV,Nevada,RES,residential,11.36,cents per kilowatthour
+71,2020-10,NH,New Hampshire,RES,residential,19.32,cents per kilowatthour
+72,2020-10,NJ,New Jersey,RES,residential,15.91,cents per kilowatthour
+73,2020-11,ID,Idaho,RES,residential,9.63,cents per kilowatthour
+74,2020-11,IL,Illinois,RES,residential,13.64,cents per kilowatthour
+75,2020-10,WV,West Virginia,RES,residential,13.0,cents per kilowatthour
+76,2020-10,WA,Washington,RES,residential,10.03,cents per kilowatthour
+77,2020-10,WI,Wisconsin,RES,residential,14.75,cents per kilowatthour
+78,2020-12,PACN,Pacific Noncontiguous,RES,residential,25.66,cents per kilowatthour
+79,2020-12,US,U.S. Total,RES,residential,12.78,cents per kilowatthour
+80,2020-10,SAT,South Atlantic,RES,residential,12.08,cents per kilowatthour
+81,2020-10,ESC,East South Central,RES,residential,11.8,cents per kilowatthour
+82,2020-10,WSC,West South Central,RES,residential,11.5,cents per kilowatthour
+83,2020-11,IN,Indiana,RES,residential,13.57,cents per kilowatthour
+84,2020-11,IA,Iowa,RES,residential,11.78,cents per kilowatthour
+85,2020-11,KS,Kansas,RES,residential,13.02,cents per kilowatthour
+86,2020-11,KY,Kentucky,RES,residential,11.52,cents per kilowatthour
+87,2020-10,WY,Wyoming,RES,residential,11.7,cents per kilowatthour
+88,2020-10,NEW,New England,RES,residential,21.14,cents per kilowatthour
+89,2020-10,MAT,Middle Atlantic,RES,residential,16.53,cents per kilowatthour
+90,2020-10,ENC,East North Central,RES,residential,14.36,cents per kilowatthour
+91,2020-10,WNC,West North Central,RES,residential,12.14,cents per kilowatthour
+92,2020-03,CA,California,RES,residential,20.33,cents per kilowatthour
+93,2020-11,ENC,East North Central,RES,residential,13.94,cents per kilowatthour
+94,2020-11,WNC,West North Central,RES,residential,11.5,cents per kilowatthour
+95,2020-09,SD,South Dakota,RES,residential,12.63,cents per kilowatthour
+96,2020-09,TN,Tennessee,RES,residential,10.58,cents per kilowatthour
+97,2020-09,TX,Texas,RES,residential,11.77,cents per kilowatthour
+98,2020-09,UT,Utah,RES,residential,10.71,cents per kilowatthour
+99,2020-08,MS,Mississippi,RES,residential,10.66,cents per kilowatthour
+100,2020-08,MO,Missouri,RES,residential,12.72,cents per kilowatthour
+101,2020-08,MT,Montana,RES,residential,11.66,cents per kilowatthour
+102,2020-08,NE,Nebraska,RES,residential,11.76,cents per kilowatthour
+103,2020-08,NV,Nevada,RES,residential,10.75,cents per kilowatthour
+104,2020-08,NH,New Hampshire,RES,residential,18.26,cents per kilowatthour
+105,2020-09,DE,Delaware,RES,residential,11.96,cents per kilowatthour
+106,2020-09,DC,District of Columbia,RES,residential,12.55,cents per kilowatthour
+107,2020-09,FL,Florida,RES,residential,11.65,cents per kilowatthour
+108,2020-04,NY,New York,RES,residential,17.35,cents per kilowatthour
+109,2020-04,NC,North Carolina,RES,residential,11.87,cents per kilowatthour
+110,2020-04,ND,North Dakota,RES,residential,10.15,cents per kilowatthour
+111,2020-05,IL,Illinois,RES,residential,14.29,cents per kilowatthour
+112,2020-05,IN,Indiana,RES,residential,12.9,cents per kilowatthour
+113,2020-05,IA,Iowa,RES,residential,13.77,cents per kilowatthour
+114,2020-05,KS,Kansas,RES,residential,14.21,cents per kilowatthour
+115,2020-05,KY,Kentucky,RES,residential,11.12,cents per kilowatthour
+116,2020-02,TX,Texas,RES,residential,11.72,cents per kilowatthour
+117,2020-02,UT,Utah,RES,residential,10.05,cents per kilowatthour
+118,2020-02,VT,Vermont,RES,residential,19.47,cents per kilowatthour
+119,2020-02,VA,Virginia,RES,residential,12.07,cents per kilowatthour
+120,2020-02,WA,Washington,RES,residential,9.54,cents per kilowatthour
+121,2020-02,WV,West Virginia,RES,residential,11.27,cents per kilowatthour
+122,2020-02,WI,Wisconsin,RES,residential,14.17,cents per kilowatthour
+123,2020-02,WY,Wyoming,RES,residential,10.52,cents per kilowatthour
+124,2020-02,NEW,New England,RES,residential,22.11,cents per kilowatthour
+125,2020-02,MAT,Middle Atlantic,RES,residential,15.47,cents per kilowatthour
+126,2020-02,ENC,East North Central,RES,residential,13.12,cents per kilowatthour
+127,2020-02,WNC,West North Central,RES,residential,10.87,cents per kilowatthour
+128,2020-02,SAT,South Atlantic,RES,residential,11.73,cents per kilowatthour
+129,2020-02,ESC,East South Central,RES,residential,11.09,cents per kilowatthour
+130,2020-02,WSC,West South Central,RES,residential,10.95,cents per kilowatthour
+131,2020-06,DC,District of Columbia,RES,residential,12.78,cents per kilowatthour
+132,2020-07,NE,Nebraska,RES,residential,11.51,cents per kilowatthour
+133,2020-02,MTN,Mountain,RES,residential,11.3,cents per kilowatthour
+134,2020-02,PACC,Pacific Contiguous,RES,residential,15.9,cents per kilowatthour
+135,2020-02,PACN,Pacific Noncontiguous,RES,residential,27.57,cents per kilowatthour
+136,2020-02,US,U.S. Total,RES,residential,12.82,cents per kilowatthour
+137,2020-07,ENC,East North Central,RES,residential,13.27,cents per kilowatthour
+138,2020-07,WNC,West North Central,RES,residential,13.01,cents per kilowatthour
+139,2020-07,SAT,South Atlantic,RES,residential,11.86,cents per kilowatthour
+140,2020-07,ESC,East South Central,RES,residential,11.2,cents per kilowatthour
+141,2020-07,WSC,West South Central,RES,residential,11.12,cents per kilowatthour
+142,2020-07,MTN,Mountain,RES,residential,12.06,cents per kilowatthour
+143,2020-07,PACC,Pacific Contiguous,RES,residential,17.24,cents per kilowatthour
+144,2020-08,NJ,New Jersey,RES,residential,16.46,cents per kilowatthour
+145,2020-08,NM,New Mexico,RES,residential,13.77,cents per kilowatthour
+146,2020-08,NY,New York,RES,residential,18.43,cents per kilowatthour
+147,2020-08,NC,North Carolina,RES,residential,11.42,cents per kilowatthour
+148,2020-08,ND,North Dakota,RES,residential,11.84,cents per kilowatthour
+149,2020-08,OH,Ohio,RES,residential,12.27,cents per kilowatthour
+150,2020-08,OK,Oklahoma,RES,residential,10.43,cents per kilowatthour
+151,2020-08,OR,Oregon,RES,residential,11.34,cents per kilowatthour
+152,2020-08,PA,Pennsylvania,RES,residential,13.27,cents per kilowatthour
+153,2020-08,RI,Rhode Island,RES,residential,22.13,cents per kilowatthour
+154,2020-08,SC,South Carolina,RES,residential,12.78,cents per kilowatthour
+155,2020-08,SD,South Dakota,RES,residential,12.64,cents per kilowatthour
+156,2020-09,GA,Georgia,RES,residential,12.31,cents per kilowatthour
+157,2020-09,HI,Hawaii,RES,residential,29.98,cents per kilowatthour
+158,2020-09,ID,Idaho,RES,residential,10.02,cents per kilowatthour
+159,2020-09,IL,Illinois,RES,residential,12.68,cents per kilowatthour
+160,2020-09,IN,Indiana,RES,residential,13.38,cents per kilowatthour
+161,2020-09,IA,Iowa,RES,residential,12.63,cents per kilowatthour
+162,2020-10,AL,Alabama,RES,residential,13.08,cents per kilowatthour
+163,2020-03,DC,District of Columbia,RES,residential,13.03,cents per kilowatthour
+164,2020-04,OH,Ohio,RES,residential,12.63,cents per kilowatthour
+165,2020-04,OK,Oklahoma,RES,residential,10.42,cents per kilowatthour
+166,2020-05,LA,Louisiana,RES,residential,9.87,cents per kilowatthour
+167,2020-05,ME,Maine,RES,residential,16.83,cents per kilowatthour
+168,2020-05,MD,Maryland,RES,residential,13.21,cents per kilowatthour
+169,2020-05,MA,Massachusetts,RES,residential,22.16,cents per kilowatthour
+170,2020-05,MI,Michigan,RES,residential,16.2,cents per kilowatthour
+171,2020-05,MN,Minnesota,RES,residential,13.45,cents per kilowatthour
+172,2020-05,MS,Mississippi,RES,residential,11.75,cents per kilowatthour
+173,2020-06,AR,Arkansas,RES,residential,10.67,cents per kilowatthour
+174,2020-06,CA,California,RES,residential,19.71,cents per kilowatthour
+175,2020-06,CO,Colorado,RES,residential,12.82,cents per kilowatthour
+176,2020-06,CT,Connecticut,RES,residential,22.02,cents per kilowatthour
+177,2020-06,DE,Delaware,RES,residential,13.07,cents per kilowatthour
+178,2020-05,TX,Texas,RES,residential,11.79,cents per kilowatthour
+179,2020-05,UT,Utah,RES,residential,10.32,cents per kilowatthour
+180,2020-05,VT,Vermont,RES,residential,19.78,cents per kilowatthour
+181,2020-05,VA,Virginia,RES,residential,12.3,cents per kilowatthour
+182,2020-05,WA,Washington,RES,residential,10.01,cents per kilowatthour
+183,2020-06,IL,Illinois,RES,residential,12.9,cents per kilowatthour
+184,2020-06,IN,Indiana,RES,residential,12.87,cents per kilowatthour
+185,2020-06,IA,Iowa,RES,residential,13.03,cents per kilowatthour
+186,2020-06,KS,Kansas,RES,residential,12.91,cents per kilowatthour
+187,2020-06,KY,Kentucky,RES,residential,10.83,cents per kilowatthour
+188,2020-06,LA,Louisiana,RES,residential,9.68,cents per kilowatthour
+189,2020-06,ME,Maine,RES,residential,16.92,cents per kilowatthour
+190,2020-06,MD,Maryland,RES,residential,12.83,cents per kilowatthour
+191,2020-06,MA,Massachusetts,RES,residential,20.91,cents per kilowatthour
+192,2020-06,MI,Michigan,RES,residential,16.61,cents per kilowatthour
+193,2020-06,MN,Minnesota,RES,residential,13.96,cents per kilowatthour
+194,2020-06,MS,Mississippi,RES,residential,11.1,cents per kilowatthour
+195,2020-05,NH,New Hampshire,RES,residential,19.32,cents per kilowatthour
+196,2020-05,NJ,New Jersey,RES,residential,15.6,cents per kilowatthour
+197,2020-05,NM,New Mexico,RES,residential,12.04,cents per kilowatthour
+198,2020-05,WV,West Virginia,RES,residential,12.12,cents per kilowatthour
+199,2020-05,WI,Wisconsin,RES,residential,14.77,cents per kilowatthour
+200,2020-06,MO,Missouri,RES,residential,13.0,cents per kilowatthour
+201,2020-06,MT,Montana,RES,residential,11.68,cents per kilowatthour
+202,2020-05,NY,New York,RES,residential,18.55,cents per kilowatthour
+203,2020-05,WY,Wyoming,RES,residential,11.44,cents per kilowatthour
+204,2020-05,NEW,New England,RES,residential,21.65,cents per kilowatthour
+205,2020-05,MAT,Middle Atlantic,RES,residential,16.07,cents per kilowatthour
+206,2020-05,ENC,East North Central,RES,residential,14.02,cents per kilowatthour
+207,2020-05,WNC,West North Central,RES,residential,12.88,cents per kilowatthour
+208,2020-05,SAT,South Atlantic,RES,residential,11.22,cents per kilowatthour
+209,2020-05,NC,North Carolina,RES,residential,11.61,cents per kilowatthour
+210,2020-05,ND,North Dakota,RES,residential,11.21,cents per kilowatthour
+211,2020-05,OH,Ohio,RES,residential,12.6,cents per kilowatthour
+212,2020-05,OK,Oklahoma,RES,residential,10.04,cents per kilowatthour
+213,2020-05,OR,Oregon,RES,residential,11.48,cents per kilowatthour
+214,2020-05,PA,Pennsylvania,RES,residential,14.01,cents per kilowatthour
+215,2020-05,RI,Rhode Island,RES,residential,21.2,cents per kilowatthour
+216,2020-05,SC,South Carolina,RES,residential,13.03,cents per kilowatthour
+217,2020-05,SD,South Dakota,RES,residential,12.06,cents per kilowatthour
+218,2020-05,TN,Tennessee,RES,residential,10.88,cents per kilowatthour
+219,2020-07,NY,New York,RES,residential,18.75,cents per kilowatthour
+220,2020-07,NC,North Carolina,RES,residential,11.12,cents per kilowatthour
+221,2020-08,IN,Indiana,RES,residential,12.62,cents per kilowatthour
+222,2020-08,IA,Iowa,RES,residential,14.16,cents per kilowatthour
+223,2020-08,KS,Kansas,RES,residential,13.01,cents per kilowatthour
+224,2020-09,CT,Connecticut,RES,residential,23.92,cents per kilowatthour
+225,2020-04,OR,Oregon,RES,residential,11.09,cents per kilowatthour
+226,2020-04,PA,Pennsylvania,RES,residential,13.78,cents per kilowatthour
+227,2020-04,RI,Rhode Island,RES,residential,23.37,cents per kilowatthour
+228,2020-04,SC,South Carolina,RES,residential,13.33,cents per kilowatthour
+229,2020-04,SD,South Dakota,RES,residential,11.49,cents per kilowatthour
+230,2020-04,TN,Tennessee,RES,residential,10.84,cents per kilowatthour
+231,2020-04,TX,Texas,RES,residential,12.04,cents per kilowatthour
+232,2020-04,UT,Utah,RES,residential,10.16,cents per kilowatthour
+233,2020-05,MT,Montana,RES,residential,11.39,cents per kilowatthour
+234,2020-05,NE,Nebraska,RES,residential,11.48,cents per kilowatthour
+235,2020-05,NV,Nevada,RES,residential,11.37,cents per kilowatthour
+236,2020-06,FL,Florida,RES,residential,11.23,cents per kilowatthour
+237,2020-06,GA,Georgia,RES,residential,12.88,cents per kilowatthour
+238,2020-06,HI,Hawaii,RES,residential,29.02,cents per kilowatthour
+239,2020-04,VT,Vermont,RES,residential,19.58,cents per kilowatthour
+240,2020-04,VA,Virginia,RES,residential,12.67,cents per kilowatthour
+241,2020-04,WA,Washington,RES,residential,9.8,cents per kilowatthour
+242,2020-04,WV,West Virginia,RES,residential,11.89,cents per kilowatthour
+243,2020-04,WI,Wisconsin,RES,residential,14.37,cents per kilowatthour
+244,2020-04,WY,Wyoming,RES,residential,10.96,cents per kilowatthour
+245,2020-06,SAT,South Atlantic,RES,residential,11.92,cents per kilowatthour
+246,2020-07,WA,Washington,RES,residential,10.02,cents per kilowatthour
+247,2020-09,ND,North Dakota,RES,residential,12.29,cents per kilowatthour
+248,2020-09,OH,Ohio,RES,residential,12.34,cents per kilowatthour
+249,2020-09,OK,Oklahoma,RES,residential,11.05,cents per kilowatthour
+250,2020-09,OR,Oregon,RES,residential,11.46,cents per kilowatthour
+251,2020-09,PA,Pennsylvania,RES,residential,13.59,cents per kilowatthour
+252,2020-09,RI,Rhode Island,RES,residential,21.98,cents per kilowatthour
+253,2020-09,SC,South Carolina,RES,residential,13.19,cents per kilowatthour
+254,2020-04,NEW,New England,RES,residential,22.07,cents per kilowatthour
+255,2020-04,MAT,Middle Atlantic,RES,residential,15.54,cents per kilowatthour
+256,2020-04,ENC,East North Central,RES,residential,13.86,cents per kilowatthour
+257,2020-04,WNC,West North Central,RES,residential,11.71,cents per kilowatthour
+258,2020-07,PACN,Pacific Noncontiguous,RES,residential,26.91,cents per kilowatthour
+259,2020-04,SAT,South Atlantic,RES,residential,11.97,cents per kilowatthour
+260,2020-04,ESC,East South Central,RES,residential,11.54,cents per kilowatthour
+261,2020-04,WSC,West South Central,RES,residential,11.41,cents per kilowatthour
+262,2020-04,MTN,Mountain,RES,residential,11.69,cents per kilowatthour
+263,2020-04,PACC,Pacific Contiguous,RES,residential,15.9,cents per kilowatthour
+264,2020-07,US,U.S. Total,RES,residential,13.21,cents per kilowatthour
+265,2020-08,TN,Tennessee,RES,residential,10.53,cents per kilowatthour
+266,2020-08,TX,Texas,RES,residential,11.5,cents per kilowatthour
+267,2020-08,UT,Utah,RES,residential,11.12,cents per kilowatthour
+268,2020-08,VT,Vermont,RES,residential,19.24,cents per kilowatthour
+269,2020-05,ESC,East South Central,RES,residential,11.56,cents per kilowatthour
+270,2020-05,WSC,West South Central,RES,residential,11.28,cents per kilowatthour
+271,2020-05,MTN,Mountain,RES,residential,11.91,cents per kilowatthour
+272,2020-05,PACC,Pacific Contiguous,RES,residential,15.85,cents per kilowatthour
+273,2020-05,PACN,Pacific Noncontiguous,RES,residential,27.73,cents per kilowatthour
+274,2020-08,PACC,Pacific Contiguous,RES,residential,17.78,cents per kilowatthour
+275,2020-08,PACN,Pacific Noncontiguous,RES,residential,26.87,cents per kilowatthour
+276,2020-08,US,U.S. Total,RES,residential,13.26,cents per kilowatthour
+277,2020-09,NV,Nevada,RES,residential,11.92,cents per kilowatthour
+278,2020-09,NH,New Hampshire,RES,residential,19.01,cents per kilowatthour
+279,2020-09,NJ,New Jersey,RES,residential,16.31,cents per kilowatthour
+280,2020-09,NM,New Mexico,RES,residential,14.11,cents per kilowatthour
+281,2020-09,NY,New York,RES,residential,19.01,cents per kilowatthour
+282,2020-04,PACN,Pacific Noncontiguous,RES,residential,27.88,cents per kilowatthour
+283,2020-04,US,U.S. Total,RES,residential,13.24,cents per kilowatthour
+284,2020-05,MO,Missouri,RES,residential,12.39,cents per kilowatthour
+285,2020-08,WNC,West North Central,RES,residential,13.08,cents per kilowatthour
+286,2020-08,SAT,South Atlantic,RES,residential,11.95,cents per kilowatthour
+287,2020-05,US,U.S. Total,RES,residential,13.1,cents per kilowatthour
+288,2020-06,ID,Idaho,RES,residential,10.45,cents per kilowatthour
+289,2020-09,NC,North Carolina,RES,residential,12.0,cents per kilowatthour
+290,2020-08,ESC,East South Central,RES,residential,11.17,cents per kilowatthour
+291,2020-08,WSC,West South Central,RES,residential,11.08,cents per kilowatthour
+292,2020-08,MTN,Mountain,RES,residential,11.93,cents per kilowatthour
+293,2020-08,VA,Virginia,RES,residential,12.27,cents per kilowatthour
+294,2020-08,WA,Washington,RES,residential,10.08,cents per kilowatthour
+295,2020-08,WV,West Virginia,RES,residential,11.73,cents per kilowatthour
+296,2020-08,WI,Wisconsin,RES,residential,14.3,cents per kilowatthour
+297,2020-08,WY,Wyoming,RES,residential,11.65,cents per kilowatthour
+298,2020-08,NEW,New England,RES,residential,21.02,cents per kilowatthour
+299,2020-08,MAT,Middle Atlantic,RES,residential,16.04,cents per kilowatthour
+300,2020-08,ENC,East North Central,RES,residential,13.42,cents per kilowatthour
+301,2020-09,KS,Kansas,RES,residential,12.47,cents per kilowatthour
+302,2020-10,CA,California,RES,residential,20.78,cents per kilowatthour
+303,2020-10,CO,Colorado,RES,residential,12.41,cents per kilowatthour
+304,2020-10,CT,Connecticut,RES,residential,22.93,cents per kilowatthour
+305,2020-10,DC,District of Columbia,RES,residential,13.61,cents per kilowatthour
+306,2020-11,AK,Alaska,RES,residential,22.26,cents per kilowatthour
+307,2020-11,AZ,Arizona,RES,residential,11.55,cents per kilowatthour
+308,2020-11,AR,Arkansas,RES,residential,10.59,cents per kilowatthour
+309,2021-08,MT,Montana,RES,residential,11.61,cents per kilowatthour
+310,2021-08,NE,Nebraska,RES,residential,11.55,cents per kilowatthour
+311,2021-08,MN,Minnesota,RES,residential,14.01,cents per kilowatthour
+312,2021-08,MS,Mississippi,RES,residential,11.46,cents per kilowatthour
+313,2020-07,NV,Nevada,RES,residential,10.69,cents per kilowatthour
+314,2020-07,NH,New Hampshire,RES,residential,18.3,cents per kilowatthour
+315,2020-07,NJ,New Jersey,RES,residential,16.58,cents per kilowatthour
+316,2020-07,NM,New Mexico,RES,residential,13.63,cents per kilowatthour
+317,2020-09,KY,Kentucky,RES,residential,11.06,cents per kilowatthour
+318,2020-09,LA,Louisiana,RES,residential,9.95,cents per kilowatthour
+319,2020-09,ME,Maine,RES,residential,17.22,cents per kilowatthour
+320,2020-09,MD,Maryland,RES,residential,12.93,cents per kilowatthour
+321,2020-09,MA,Massachusetts,RES,residential,21.45,cents per kilowatthour
+322,2020-09,MI,Michigan,RES,residential,16.86,cents per kilowatthour
+323,2020-09,MN,Minnesota,RES,residential,14.18,cents per kilowatthour
+324,2020-09,MS,Mississippi,RES,residential,10.72,cents per kilowatthour
+325,2020-09,MO,Missouri,RES,residential,11.3,cents per kilowatthour
+326,2020-09,MT,Montana,RES,residential,11.76,cents per kilowatthour
+327,2020-09,NE,Nebraska,RES,residential,11.84,cents per kilowatthour
+328,2020-12,AL,Alabama,RES,residential,11.32,cents per kilowatthour
+329,2020-03,GA,Georgia,RES,residential,11.58,cents per kilowatthour
+330,2020-03,HI,Hawaii,RES,residential,33.08,cents per kilowatthour
+331,2020-03,ID,Idaho,RES,residential,9.59,cents per kilowatthour
+332,2020-03,FL,Florida,RES,residential,11.31,cents per kilowatthour
+333,2020-10,AK,Alaska,RES,residential,23.17,cents per kilowatthour
+334,2020-10,AZ,Arizona,RES,residential,12.1,cents per kilowatthour
+335,2020-10,AR,Arkansas,RES,residential,10.76,cents per kilowatthour
+336,2020-11,AL,Alabama,RES,residential,12.91,cents per kilowatthour
+337,2020-10,DE,Delaware,RES,residential,13.91,cents per kilowatthour
+338,2020-04,AZ,Arizona,RES,residential,12.63,cents per kilowatthour
+339,2020-04,AR,Arkansas,RES,residential,10.67,cents per kilowatthour
+340,2021-08,HI,Hawaii,RES,residential,33.36,cents per kilowatthour
+341,2021-08,ID,Idaho,RES,residential,10.71,cents per kilowatthour
+342,2021-08,IL,Illinois,RES,residential,12.85,cents per kilowatthour
+343,2021-08,DC,District of Columbia,RES,residential,13.08,cents per kilowatthour
+344,2021-08,FL,Florida,RES,residential,11.84,cents per kilowatthour
+345,2021-08,GA,Georgia,RES,residential,13.23,cents per kilowatthour
+346,2020-03,IL,Illinois,RES,residential,13.41,cents per kilowatthour
+347,2020-06,ESC,East South Central,RES,residential,11.45,cents per kilowatthour
+348,2020-06,WSC,West South Central,RES,residential,11.27,cents per kilowatthour
+349,2021-08,WY,Wyoming,RES,residential,11.61,cents per kilowatthour
+350,2021-08,NEW,New England,RES,residential,20.85,cents per kilowatthour
+351,2021-08,MAT,Middle Atlantic,RES,residential,16.89,cents per kilowatthour
+352,2021-08,ENC,East North Central,RES,residential,14.11,cents per kilowatthour
+353,2021-08,WNC,West North Central,RES,residential,13.3,cents per kilowatthour
+354,2020-10,FL,Florida,RES,residential,11.44,cents per kilowatthour
+355,2020-10,GA,Georgia,RES,residential,12.09,cents per kilowatthour
+356,2020-11,CA,California,RES,residential,22.2,cents per kilowatthour
+357,2021-08,KY,Kentucky,RES,residential,11.63,cents per kilowatthour
+358,2021-08,LA,Louisiana,RES,residential,11.45,cents per kilowatthour
+359,2021-08,IN,Indiana,RES,residential,13.34,cents per kilowatthour
+360,2021-08,IA,Iowa,RES,residential,14.58,cents per kilowatthour
+361,2021-08,KS,Kansas,RES,residential,13.1,cents per kilowatthour
+362,2021-08,NJ,New Jersey,RES,residential,16.75,cents per kilowatthour
+363,2021-08,NM,New Mexico,RES,residential,14.42,cents per kilowatthour
+364,2021-08,NV,Nevada,RES,residential,10.98,cents per kilowatthour
+365,2021-08,NH,New Hampshire,RES,residential,19.58,cents per kilowatthour
+366,2020-04,AK,Alaska,RES,residential,22.01,cents per kilowatthour
+367,2020-05,AL,Alabama,RES,residential,12.6,cents per kilowatthour
+368,2021-08,MO,Missouri,RES,residential,13.16,cents per kilowatthour
+369,2021-08,MA,Massachusetts,RES,residential,22.19,cents per kilowatthour
+370,2021-08,MI,Michigan,RES,residential,17.87,cents per kilowatthour
+371,2021-08,ME,Maine,RES,residential,17.13,cents per kilowatthour
+372,2021-08,MD,Maryland,RES,residential,12.89,cents per kilowatthour
+373,2020-03,AL,Alabama,RES,residential,12.68,cents per kilowatthour
+374,2020-07,OH,Ohio,RES,residential,12.26,cents per kilowatthour
+375,2020-07,OK,Oklahoma,RES,residential,10.24,cents per kilowatthour
+376,2020-06,NE,Nebraska,RES,residential,11.25,cents per kilowatthour
+377,2020-06,NV,Nevada,RES,residential,11.15,cents per kilowatthour
+378,2020-06,NH,New Hampshire,RES,residential,18.97,cents per kilowatthour
+379,2020-06,NJ,New Jersey,RES,residential,15.82,cents per kilowatthour
+380,2020-06,NM,New Mexico,RES,residential,13.26,cents per kilowatthour
+381,2021-08,OH,Ohio,RES,residential,13.03,cents per kilowatthour
+382,2021-08,OK,Oklahoma,RES,residential,11.37,cents per kilowatthour
+383,2021-08,OR,Oregon,RES,residential,11.57,cents per kilowatthour
+384,2021-08,NY,New York,RES,residential,19.97,cents per kilowatthour
+385,2021-08,NC,North Carolina,RES,residential,11.33,cents per kilowatthour
+386,2021-08,AL,Alabama,RES,residential,13.38,cents per kilowatthour
+387,2021-08,AK,Alaska,RES,residential,23.27,cents per kilowatthour
+388,2020-07,OR,Oregon,RES,residential,11.38,cents per kilowatthour
+389,2020-08,KY,Kentucky,RES,residential,10.68,cents per kilowatthour
+390,2021-08,VA,Virginia,RES,residential,12.71,cents per kilowatthour
+391,2021-08,WA,Washington,RES,residential,10.29,cents per kilowatthour
+392,2021-08,TX,Texas,RES,residential,11.94,cents per kilowatthour
+393,2021-08,UT,Utah,RES,residential,10.94,cents per kilowatthour
+394,2021-08,VT,Vermont,RES,residential,19.1,cents per kilowatthour
+395,2020-04,AL,Alabama,RES,residential,12.78,cents per kilowatthour
+396,2021-08,ND,North Dakota,RES,residential,11.99,cents per kilowatthour
+397,2020-06,NY,New York,RES,residential,19.13,cents per kilowatthour
+398,2020-06,NC,North Carolina,RES,residential,11.31,cents per kilowatthour
+399,2020-08,LA,Louisiana,RES,residential,9.6,cents per kilowatthour
+400,2021-08,WV,West Virginia,RES,residential,12.21,cents per kilowatthour
+401,2021-08,WI,Wisconsin,RES,residential,14.44,cents per kilowatthour
+402,2021-08,SC,South Carolina,RES,residential,12.83,cents per kilowatthour
+403,2021-08,CT,Connecticut,RES,residential,20.8,cents per kilowatthour
+404,2021-08,DE,Delaware,RES,residential,12.14,cents per kilowatthour
+405,2021-08,SD,South Dakota,RES,residential,12.8,cents per kilowatthour
+406,2021-08,TN,Tennessee,RES,residential,11.14,cents per kilowatthour
+407,2021-08,AZ,Arizona,RES,residential,12.58,cents per kilowatthour
+408,2021-08,AR,Arkansas,RES,residential,11.6,cents per kilowatthour
+409,2021-08,CA,California,RES,residential,23.39,cents per kilowatthour
+410,2021-08,CO,Colorado,RES,residential,13.5,cents per kilowatthour
+411,2021-08,PA,Pennsylvania,RES,residential,13.86,cents per kilowatthour
+412,2021-08,RI,Rhode Island,RES,residential,20.35,cents per kilowatthour
+413,2020-07,ND,North Dakota,RES,residential,11.82,cents per kilowatthour
+414,2020-06,ND,North Dakota,RES,residential,12.01,cents per kilowatthour
+415,2020-06,OH,Ohio,RES,residential,12.23,cents per kilowatthour
+416,2020-06,OK,Oklahoma,RES,residential,10.37,cents per kilowatthour
+417,2020-06,OR,Oregon,RES,residential,11.39,cents per kilowatthour
+418,2020-06,PA,Pennsylvania,RES,residential,13.63,cents per kilowatthour
+419,2020-04,CA,California,RES,residential,20.43,cents per kilowatthour
+420,2020-04,CO,Colorado,RES,residential,12.05,cents per kilowatthour
+421,2021-08,SAT,South Atlantic,RES,residential,12.27,cents per kilowatthour
+422,2021-08,ESC,East South Central,RES,residential,11.9,cents per kilowatthour
+423,2021-08,WSC,West South Central,RES,residential,11.79,cents per kilowatthour
+424,2021-09,AL,Alabama,RES,residential,13.48,cents per kilowatthour
+425,2021-09,AK,Alaska,RES,residential,23.18,cents per kilowatthour
+426,2021-12,CA,California,RES,residential,23.38,cents per kilowatthour
+427,2021-01,KY,Kentucky,RES,residential,10.46,cents per kilowatthour
+428,2021-01,LA,Louisiana,RES,residential,9.51,cents per kilowatthour
+429,2021-09,AZ,Arizona,RES,residential,12.74,cents per kilowatthour
+430,2021-09,AR,Arkansas,RES,residential,11.8,cents per kilowatthour
+431,2021-09,NJ,New Jersey,RES,residential,16.29,cents per kilowatthour
+432,2021-05,MI,Michigan,RES,residential,17.7,cents per kilowatthour
+433,2021-05,MN,Minnesota,RES,residential,13.63,cents per kilowatthour
+434,2021-05,MS,Mississippi,RES,residential,12.25,cents per kilowatthour
+435,2021-05,MO,Missouri,RES,residential,11.38,cents per kilowatthour
+436,2021-12,CO,Colorado,RES,residential,13.51,cents per kilowatthour
+437,2021-12,CT,Connecticut,RES,residential,20.93,cents per kilowatthour
+438,2021-09,NM,New Mexico,RES,residential,14.53,cents per kilowatthour
+439,2021-09,CA,California,RES,residential,23.49,cents per kilowatthour
+440,2021-06,KY,Kentucky,RES,residential,11.46,cents per kilowatthour
+441,2021-06,LA,Louisiana,RES,residential,11.35,cents per kilowatthour
+442,2021-09,CO,Colorado,RES,residential,13.82,cents per kilowatthour
+443,2021-09,CT,Connecticut,RES,residential,22.47,cents per kilowatthour
+444,2021-09,DE,Delaware,RES,residential,13.21,cents per kilowatthour
+445,2021-09,SC,South Carolina,RES,residential,13.4,cents per kilowatthour
+446,2021-09,SD,South Dakota,RES,residential,13.14,cents per kilowatthour
+447,2021-09,TN,Tennessee,RES,residential,11.16,cents per kilowatthour
+448,2021-09,OR,Oregon,RES,residential,11.71,cents per kilowatthour
+449,2021-09,PA,Pennsylvania,RES,residential,14.06,cents per kilowatthour
+450,2021-09,RI,Rhode Island,RES,residential,23.35,cents per kilowatthour
+451,2021-01,AR,Arkansas,RES,residential,9.48,cents per kilowatthour
+452,2021-09,UT,Utah,RES,residential,10.9,cents per kilowatthour
+453,2021-09,VT,Vermont,RES,residential,19.54,cents per kilowatthour
+454,2021-09,NY,New York,RES,residential,20.5,cents per kilowatthour
+455,2021-09,NC,North Carolina,RES,residential,11.83,cents per kilowatthour
+456,2021-09,ND,North Dakota,RES,residential,12.83,cents per kilowatthour
+457,2021-09,OH,Ohio,RES,residential,13.14,cents per kilowatthour
+458,2021-05,AK,Alaska,RES,residential,23.02,cents per kilowatthour
+459,2021-05,AZ,Arizona,RES,residential,13.04,cents per kilowatthour
+460,2021-05,AR,Arkansas,RES,residential,11.34,cents per kilowatthour
+461,2021-05,CA,California,RES,residential,22.74,cents per kilowatthour
+462,2021-09,VA,Virginia,RES,residential,12.33,cents per kilowatthour
+463,2021-05,AL,Alabama,RES,residential,13.42,cents per kilowatthour
+464,2021-09,WA,Washington,RES,residential,10.41,cents per kilowatthour
+465,2021-09,WV,West Virginia,RES,residential,12.7,cents per kilowatthour
+466,2021-01,CO,Colorado,RES,residential,12.07,cents per kilowatthour
+467,2021-01,CT,Connecticut,RES,residential,21.32,cents per kilowatthour
+468,2021-01,DE,Delaware,RES,residential,11.73,cents per kilowatthour
+469,2021-01,DC,District of Columbia,RES,residential,12.21,cents per kilowatthour
+470,2021-01,FL,Florida,RES,residential,11.47,cents per kilowatthour
+471,2021-05,DE,Delaware,RES,residential,13.36,cents per kilowatthour
+472,2021-05,DC,District of Columbia,RES,residential,13.36,cents per kilowatthour
+473,2021-05,FL,Florida,RES,residential,11.76,cents per kilowatthour
+474,2021-09,WI,Wisconsin,RES,residential,14.99,cents per kilowatthour
+475,2021-09,WY,Wyoming,RES,residential,12.01,cents per kilowatthour
+476,2021-05,CO,Colorado,RES,residential,12.53,cents per kilowatthour
+477,2021-05,CT,Connecticut,RES,residential,22.11,cents per kilowatthour
+478,2021-09,NEW,New England,RES,residential,22.22,cents per kilowatthour
+479,2021-05,GA,Georgia,RES,residential,13.16,cents per kilowatthour
+480,2021-05,HI,Hawaii,RES,residential,32.99,cents per kilowatthour
+481,2021-05,ID,Idaho,RES,residential,10.32,cents per kilowatthour
+482,2021-05,IL,Illinois,RES,residential,14.18,cents per kilowatthour
+483,2021-05,IN,Indiana,RES,residential,14.12,cents per kilowatthour
+484,2021-09,MAT,Middle Atlantic,RES,residential,17.19,cents per kilowatthour
+485,2021-09,ENC,East North Central,RES,residential,14.18,cents per kilowatthour
+486,2021-09,WNC,West North Central,RES,residential,13.24,cents per kilowatthour
+487,2021-09,SAT,South Atlantic,RES,residential,12.51,cents per kilowatthour
+488,2021-09,ESC,East South Central,RES,residential,11.94,cents per kilowatthour
+489,2021-09,WSC,West South Central,RES,residential,12.13,cents per kilowatthour
+490,2021-05,MAT,Middle Atlantic,RES,residential,16.6,cents per kilowatthour
+491,2021-09,HI,Hawaii,RES,residential,34.57,cents per kilowatthour
+492,2021-09,ID,Idaho,RES,residential,10.4,cents per kilowatthour
+493,2021-09,IL,Illinois,RES,residential,13.02,cents per kilowatthour
+494,2021-09,IN,Indiana,RES,residential,13.56,cents per kilowatthour
+495,2021-09,MTN,Mountain,RES,residential,12.46,cents per kilowatthour
+496,2021-09,OK,Oklahoma,RES,residential,12.03,cents per kilowatthour
+497,2021-01,AK,Alaska,RES,residential,21.42,cents per kilowatthour
+498,2021-01,AZ,Arizona,RES,residential,11.69,cents per kilowatthour
+499,2021-12,DE,Delaware,RES,residential,12.57,cents per kilowatthour
+500,2021-12,DC,District of Columbia,RES,residential,13.34,cents per kilowatthour
+501,2021-01,AL,Alabama,RES,residential,12.21,cents per kilowatthour
+502,2021-09,DC,District of Columbia,RES,residential,13.02,cents per kilowatthour
+503,2021-09,FL,Florida,RES,residential,12.34,cents per kilowatthour
+504,2021-09,GA,Georgia,RES,residential,12.87,cents per kilowatthour
+505,2021-12,SD,South Dakota,RES,residential,11.5,cents per kilowatthour
+506,2021-05,SAT,South Atlantic,RES,residential,12.21,cents per kilowatthour
+507,2021-05,ESC,East South Central,RES,residential,12.22,cents per kilowatthour
+508,2021-01,WY,Wyoming,RES,residential,10.44,cents per kilowatthour
+509,2021-01,NEW,New England,RES,residential,20.99,cents per kilowatthour
+510,2021-01,MAT,Middle Atlantic,RES,residential,15.56,cents per kilowatthour
+511,2021-01,ENC,East North Central,RES,residential,13.14,cents per kilowatthour
+512,2021-10,AL,Alabama,RES,residential,13.7,cents per kilowatthour
+513,2021-09,TX,Texas,RES,residential,12.26,cents per kilowatthour
+514,2021-01,CA,California,RES,residential,21.45,cents per kilowatthour
+515,2021-05,ENC,East North Central,RES,residential,14.68,cents per kilowatthour
+516,2021-01,PACN,Pacific Noncontiguous,RES,residential,26.44,cents per kilowatthour
+517,2021-01,US,U.S. Total,RES,residential,12.62,cents per kilowatthour
+518,2021-05,WNC,West North Central,RES,residential,12.58,cents per kilowatthour
+519,2021-06,RI,Rhode Island,RES,residential,19.74,cents per kilowatthour
+520,2021-06,GA,Georgia,RES,residential,13.52,cents per kilowatthour
+521,2021-12,MD,Maryland,RES,residential,14.07,cents per kilowatthour
+522,2021-12,MA,Massachusetts,RES,residential,24.32,cents per kilowatthour
+523,2021-12,MI,Michigan,RES,residential,17.26,cents per kilowatthour
+524,2021-12,MN,Minnesota,RES,residential,12.89,cents per kilowatthour
+525,2021-12,ID,Idaho,RES,residential,10.31,cents per kilowatthour
+526,2021-06,KS,Kansas,RES,residential,13.33,cents per kilowatthour
+527,2021-06,FL,Florida,RES,residential,11.88,cents per kilowatthour
+528,2021-01,WNC,West North Central,RES,residential,10.57,cents per kilowatthour
+529,2021-05,WA,Washington,RES,residential,10.21,cents per kilowatthour
+530,2021-05,WV,West Virginia,RES,residential,12.56,cents per kilowatthour
+531,2021-05,WI,Wisconsin,RES,residential,15.29,cents per kilowatthour
+532,2021-12,MS,Mississippi,RES,residential,11.82,cents per kilowatthour
+533,2021-06,ME,Maine,RES,residential,16.57,cents per kilowatthour
+534,2021-12,OH,Ohio,RES,residential,12.81,cents per kilowatthour
+535,2021-12,OK,Oklahoma,RES,residential,10.7,cents per kilowatthour
+536,2021-12,OR,Oregon,RES,residential,11.2,cents per kilowatthour
+537,2021-01,SAT,South Atlantic,RES,residential,11.19,cents per kilowatthour
+538,2021-01,ESC,East South Central,RES,residential,10.89,cents per kilowatthour
+539,2021-01,WSC,West South Central,RES,residential,10.64,cents per kilowatthour
+540,2021-01,MTN,Mountain,RES,residential,11.33,cents per kilowatthour
+541,2021-12,PA,Pennsylvania,RES,residential,14.37,cents per kilowatthour
+542,2021-12,RI,Rhode Island,RES,residential,25.17,cents per kilowatthour
+543,2021-12,SC,South Carolina,RES,residential,12.8,cents per kilowatthour
+544,2021-12,ND,North Dakota,RES,residential,9.36,cents per kilowatthour
+545,2021-12,FL,Florida,RES,residential,12.09,cents per kilowatthour
+546,2021-05,NE,Nebraska,RES,residential,11.26,cents per kilowatthour
+547,2021-06,IL,Illinois,RES,residential,12.83,cents per kilowatthour
+548,2021-06,IN,Indiana,RES,residential,13.64,cents per kilowatthour
+549,2021-06,IA,Iowa,RES,residential,13.99,cents per kilowatthour
+550,2021-06,MN,Minnesota,RES,residential,14.17,cents per kilowatthour
+551,2021-01,VA,Virginia,RES,residential,10.89,cents per kilowatthour
+552,2021-01,WA,Washington,RES,residential,9.77,cents per kilowatthour
+553,2021-05,VT,Vermont,RES,residential,19.57,cents per kilowatthour
+554,2021-05,VA,Virginia,RES,residential,12.06,cents per kilowatthour
+555,2021-06,MS,Mississippi,RES,residential,11.77,cents per kilowatthour
+556,2021-06,MO,Missouri,RES,residential,13.22,cents per kilowatthour
+557,2021-06,MT,Montana,RES,residential,11.5,cents per kilowatthour
+558,2021-06,SC,South Carolina,RES,residential,12.94,cents per kilowatthour
+559,2021-06,MD,Maryland,RES,residential,13.07,cents per kilowatthour
+560,2021-06,MA,Massachusetts,RES,residential,22.2,cents per kilowatthour
+561,2021-06,MI,Michigan,RES,residential,17.85,cents per kilowatthour
+562,2021-01,PACC,Pacific Contiguous,RES,residential,16.44,cents per kilowatthour
+563,2021-05,NEW,New England,RES,residential,21.34,cents per kilowatthour
+564,2021-12,NY,New York,RES,residential,19.56,cents per kilowatthour
+565,2021-12,NC,North Carolina,RES,residential,11.14,cents per kilowatthour
+566,2021-01,WV,West Virginia,RES,residential,11.19,cents per kilowatthour
+567,2021-01,WI,Wisconsin,RES,residential,14.03,cents per kilowatthour
+568,2021-06,AZ,Arizona,RES,residential,12.66,cents per kilowatthour
+569,2021-06,CA,California,RES,residential,23.13,cents per kilowatthour
+570,2021-05,MT,Montana,RES,residential,11.28,cents per kilowatthour
+571,2021-05,NH,New Hampshire,RES,residential,19.95,cents per kilowatthour
+572,2021-05,NV,Nevada,RES,residential,11.12,cents per kilowatthour
+573,2021-12,AZ,Arizona,RES,residential,12.62,cents per kilowatthour
+574,2021-12,AR,Arkansas,RES,residential,10.99,cents per kilowatthour
+575,2021-08,PACN,Pacific Noncontiguous,RES,residential,29.75,cents per kilowatthour
+576,2021-08,US,U.S. Total,RES,residential,13.92,cents per kilowatthour
+577,2021-08,MTN,Mountain,RES,residential,12.28,cents per kilowatthour
+578,2021-08,PACC,Pacific Contiguous,RES,residential,19.61,cents per kilowatthour
+579,2021-09,NH,New Hampshire,RES,residential,20.66,cents per kilowatthour
+580,2021-09,MA,Massachusetts,RES,residential,23.44,cents per kilowatthour
+581,2021-09,ME,Maine,RES,residential,17.98,cents per kilowatthour
+582,2021-09,MD,Maryland,RES,residential,13.28,cents per kilowatthour
+583,2021-01,NY,New York,RES,residential,18.31,cents per kilowatthour
+584,2021-01,NC,North Carolina,RES,residential,10.39,cents per kilowatthour
+585,2021-05,TX,Texas,RES,residential,12.09,cents per kilowatthour
+586,2021-05,UT,Utah,RES,residential,10.03,cents per kilowatthour
+587,2021-05,MA,Massachusetts,RES,residential,22.69,cents per kilowatthour
+588,2021-12,NM,New Mexico,RES,residential,13.03,cents per kilowatthour
+589,2021-06,CO,Colorado,RES,residential,13.07,cents per kilowatthour
+590,2021-06,CT,Connecticut,RES,residential,20.8,cents per kilowatthour
+591,2021-06,DE,Delaware,RES,residential,12.4,cents per kilowatthour
+592,2021-09,MI,Michigan,RES,residential,17.64,cents per kilowatthour
+593,2021-09,MN,Minnesota,RES,residential,14.3,cents per kilowatthour
+594,2021-12,MTN,Mountain,RES,residential,12.06,cents per kilowatthour
+595,2021-12,PACC,Pacific Contiguous,RES,residential,17.34,cents per kilowatthour
+596,2021-12,PACN,Pacific Noncontiguous,RES,residential,29.36,cents per kilowatthour
+597,2021-12,WSC,West South Central,RES,residential,12.08,cents per kilowatthour
+598,2021-01,IA,Iowa,RES,residential,10.85,cents per kilowatthour
+599,2021-01,KS,Kansas,RES,residential,11.85,cents per kilowatthour
+600,2021-01,OH,Ohio,RES,residential,11.81,cents per kilowatthour
+601,2021-01,NJ,New Jersey,RES,residential,16.14,cents per kilowatthour
+602,2021-01,NM,New Mexico,RES,residential,12.44,cents per kilowatthour
+603,2021-05,NJ,New Jersey,RES,residential,15.95,cents per kilowatthour
+604,2021-12,AL,Alabama,RES,residential,9.66,cents per kilowatthour
+605,2021-12,AK,Alaska,RES,residential,22.14,cents per kilowatthour
+606,2021-05,IA,Iowa,RES,residential,13.37,cents per kilowatthour
+607,2021-05,KS,Kansas,RES,residential,13.84,cents per kilowatthour
+608,2021-05,KY,Kentucky,RES,residential,11.84,cents per kilowatthour
+609,2021-06,DC,District of Columbia,RES,residential,12.96,cents per kilowatthour
+610,2021-12,KS,Kansas,RES,residential,12.75,cents per kilowatthour
+611,2021-12,KY,Kentucky,RES,residential,12.19,cents per kilowatthour
+612,2021-12,LA,Louisiana,RES,residential,11.56,cents per kilowatthour
+613,2021-12,US,U.S. Total,RES,residential,13.72,cents per kilowatthour
+614,2021-06,AR,Arkansas,RES,residential,11.64,cents per kilowatthour
+615,2021-06,AL,Alabama,RES,residential,13.4,cents per kilowatthour
+616,2021-06,AK,Alaska,RES,residential,23.58,cents per kilowatthour
+617,2021-05,PA,Pennsylvania,RES,residential,13.85,cents per kilowatthour
+618,2021-01,NV,Nevada,RES,residential,11.52,cents per kilowatthour
+619,2021-01,ME,Maine,RES,residential,16.49,cents per kilowatthour
+620,2021-01,MD,Maryland,RES,residential,12.6,cents per kilowatthour
+621,2021-01,TX,Texas,RES,residential,11.35,cents per kilowatthour
+622,2021-01,UT,Utah,RES,residential,9.98,cents per kilowatthour
+623,2021-01,VT,Vermont,RES,residential,18.39,cents per kilowatthour
+624,2021-05,OK,Oklahoma,RES,residential,10.88,cents per kilowatthour
+625,2021-05,OR,Oregon,RES,residential,11.63,cents per kilowatthour
+626,2021-05,NM,New Mexico,RES,residential,13.17,cents per kilowatthour
+627,2021-05,NY,New York,RES,residential,19.93,cents per kilowatthour
+628,2021-01,SD,South Dakota,RES,residential,10.96,cents per kilowatthour
+629,2021-01,TN,Tennessee,RES,residential,10.31,cents per kilowatthour
+630,2021-01,OK,Oklahoma,RES,residential,8.83,cents per kilowatthour
+631,2021-01,OR,Oregon,RES,residential,11.04,cents per kilowatthour
+632,2021-09,MT,Montana,RES,residential,11.82,cents per kilowatthour
+633,2021-12,NH,New Hampshire,RES,residential,21.02,cents per kilowatthour
+634,2021-06,NY,New York,RES,residential,19.6,cents per kilowatthour
+635,2021-12,NE,Nebraska,RES,residential,10.11,cents per kilowatthour
+636,2021-10,AK,Alaska,RES,residential,23.19,cents per kilowatthour
+637,2021-09,MS,Mississippi,RES,residential,11.44,cents per kilowatthour
+638,2021-09,MO,Missouri,RES,residential,13.06,cents per kilowatthour
+639,2021-01,MS,Mississippi,RES,residential,10.65,cents per kilowatthour
+640,2021-01,MO,Missouri,RES,residential,9.3,cents per kilowatthour
+641,2021-01,MT,Montana,RES,residential,10.7,cents per kilowatthour
+642,2021-01,MN,Minnesota,RES,residential,12.56,cents per kilowatthour
+643,2021-01,NH,New Hampshire,RES,residential,18.93,cents per kilowatthour
+644,2021-01,MA,Massachusetts,RES,residential,22.3,cents per kilowatthour
+645,2021-01,MI,Michigan,RES,residential,16.92,cents per kilowatthour
+646,2021-09,IA,Iowa,RES,residential,13.85,cents per kilowatthour
+647,2021-09,KS,Kansas,RES,residential,12.91,cents per kilowatthour
+648,2021-09,KY,Kentucky,RES,residential,11.78,cents per kilowatthour
+649,2021-09,LA,Louisiana,RES,residential,11.69,cents per kilowatthour
+650,2021-06,OH,Ohio,RES,residential,13.31,cents per kilowatthour
+651,2021-01,SC,South Carolina,RES,residential,11.65,cents per kilowatthour
+652,2021-05,NC,North Carolina,RES,residential,11.65,cents per kilowatthour
+653,2021-05,ND,North Dakota,RES,residential,11.96,cents per kilowatthour
+654,2021-01,PA,Pennsylvania,RES,residential,13.07,cents per kilowatthour
+655,2021-01,RI,Rhode Island,RES,residential,23.41,cents per kilowatthour
+656,2021-12,IA,Iowa,RES,residential,11.52,cents per kilowatthour
+657,2021-09,PACC,Pacific Contiguous,RES,residential,19.81,cents per kilowatthour
+658,2021-09,PACN,Pacific Noncontiguous,RES,residential,30.23,cents per kilowatthour
+659,2021-09,US,U.S. Total,RES,residential,14.14,cents per kilowatthour
+660,2021-12,NV,Nevada,RES,residential,12.18,cents per kilowatthour
+661,2021-01,GA,Georgia,RES,residential,10.77,cents per kilowatthour
+662,2021-06,NC,North Carolina,RES,residential,11.34,cents per kilowatthour
+663,2021-06,ND,North Dakota,RES,residential,12.23,cents per kilowatthour
+664,2021-05,LA,Louisiana,RES,residential,11.67,cents per kilowatthour
+665,2021-05,ME,Maine,RES,residential,16.61,cents per kilowatthour
+666,2021-05,MD,Maryland,RES,residential,12.88,cents per kilowatthour
+667,2021-12,GA,Georgia,RES,residential,12.07,cents per kilowatthour
+668,2021-12,HI,Hawaii,RES,residential,35.85,cents per kilowatthour
+669,2021-05,SD,South Dakota,RES,residential,13.09,cents per kilowatthour
+670,2021-12,NJ,New Jersey,RES,residential,15.97,cents per kilowatthour
+671,2021-05,TN,Tennessee,RES,residential,11.43,cents per kilowatthour
+672,2021-01,NE,Nebraska,RES,residential,9.31,cents per kilowatthour
+673,2021-05,RI,Rhode Island,RES,residential,20.8,cents per kilowatthour
+674,2021-05,SC,South Carolina,RES,residential,12.89,cents per kilowatthour
+675,2021-05,OH,Ohio,RES,residential,12.99,cents per kilowatthour
+676,2021-01,HI,Hawaii,RES,residential,30.67,cents per kilowatthour
+677,2021-01,ID,Idaho,RES,residential,10.02,cents per kilowatthour
+678,2021-01,IL,Illinois,RES,residential,12.23,cents per kilowatthour
+679,2021-01,IN,Indiana,RES,residential,12.18,cents per kilowatthour
+680,2021-01,ND,North Dakota,RES,residential,9.47,cents per kilowatthour
+681,2021-03,GA,Georgia,RES,residential,11.72,cents per kilowatthour
+682,2021-03,HI,Hawaii,RES,residential,33.07,cents per kilowatthour
+683,2021-03,ID,Idaho,RES,residential,9.96,cents per kilowatthour
+684,2021-06,PACN,Pacific Noncontiguous,RES,residential,29.47,cents per kilowatthour
+685,2021-06,US,U.S. Total,RES,residential,13.83,cents per kilowatthour
+686,2021-03,IN,Indiana,RES,residential,13.04,cents per kilowatthour
+687,2021-09,NV,Nevada,RES,residential,11.21,cents per kilowatthour
+688,2021-02,ESC,East South Central,RES,residential,11.04,cents per kilowatthour
+689,2021-02,WSC,West South Central,RES,residential,12.05,cents per kilowatthour
+690,2021-03,MD,Maryland,RES,residential,12.78,cents per kilowatthour
+691,2021-09,NE,Nebraska,RES,residential,11.69,cents per kilowatthour
+692,2021-02,NEW,New England,RES,residential,21.53,cents per kilowatthour
+693,2021-02,MAT,Middle Atlantic,RES,residential,15.8,cents per kilowatthour
+694,2021-02,ENC,East North Central,RES,residential,13.07,cents per kilowatthour
+695,2021-02,PACN,Pacific Noncontiguous,RES,residential,27.13,cents per kilowatthour
+696,2021-02,US,U.S. Total,RES,residential,13.01,cents per kilowatthour
+697,2021-03,KS,Kansas,RES,residential,12.92,cents per kilowatthour
+698,2021-03,IA,Iowa,RES,residential,11.26,cents per kilowatthour
+699,2021-02,WNC,West North Central,RES,residential,10.76,cents per kilowatthour
+700,2021-02,SAT,South Atlantic,RES,residential,11.64,cents per kilowatthour
+701,2021-03,FL,Florida,RES,residential,11.53,cents per kilowatthour
+702,2021-03,KY,Kentucky,RES,residential,10.98,cents per kilowatthour
+703,2021-03,LA,Louisiana,RES,residential,10.14,cents per kilowatthour
+704,2021-03,ME,Maine,RES,residential,16.41,cents per kilowatthour
+705,2021-06,ESC,East South Central,RES,residential,12.01,cents per kilowatthour
+706,2021-06,WSC,West South Central,RES,residential,11.84,cents per kilowatthour
+707,2021-06,MTN,Mountain,RES,residential,12.14,cents per kilowatthour
+708,2021-06,PACC,Pacific Contiguous,RES,residential,18.59,cents per kilowatthour
+709,2021-03,IL,Illinois,RES,residential,13.82,cents per kilowatthour
+710,2021-06,WNC,West North Central,RES,residential,13.32,cents per kilowatthour
+711,2021-06,SAT,South Atlantic,RES,residential,12.32,cents per kilowatthour
+712,2021-12,ENC,East North Central,RES,residential,14.09,cents per kilowatthour
+713,2021-02,MTN,Mountain,RES,residential,11.54,cents per kilowatthour
+714,2021-02,PACC,Pacific Contiguous,RES,residential,16.57,cents per kilowatthour
+715,2021-06,NEW,New England,RES,residential,20.7,cents per kilowatthour
+716,2021-06,MAT,Middle Atlantic,RES,residential,16.65,cents per kilowatthour
+717,2021-06,ENC,East North Central,RES,residential,14.27,cents per kilowatthour
+718,2021-06,WA,Washington,RES,residential,10.15,cents per kilowatthour
+719,2021-06,UT,Utah,RES,residential,10.76,cents per kilowatthour
+720,2021-05,MTN,Mountain,RES,residential,12.1,cents per kilowatthour
+721,2021-05,PACC,Pacific Contiguous,RES,residential,18.24,cents per kilowatthour
+722,2021-12,NEW,New England,RES,residential,22.07,cents per kilowatthour
+723,2021-12,MAT,Middle Atlantic,RES,residential,16.6,cents per kilowatthour
+724,2021-06,VT,Vermont,RES,residential,19.34,cents per kilowatthour
+725,2021-06,VA,Virginia,RES,residential,12.41,cents per kilowatthour
+726,2021-06,TX,Texas,RES,residential,12.04,cents per kilowatthour
+727,2021-12,MO,Missouri,RES,residential,10.54,cents per kilowatthour
+728,2021-12,MT,Montana,RES,residential,11.12,cents per kilowatthour
+729,2021-12,IN,Indiana,RES,residential,13.57,cents per kilowatthour
+730,2021-06,NV,Nevada,RES,residential,11.22,cents per kilowatthour
+731,2021-06,NH,New Hampshire,RES,residential,19.27,cents per kilowatthour
+732,2021-06,SD,South Dakota,RES,residential,12.91,cents per kilowatthour
+733,2021-12,WV,West Virginia,RES,residential,11.82,cents per kilowatthour
+734,2021-12,WI,Wisconsin,RES,residential,14.2,cents per kilowatthour
+735,2021-12,UT,Utah,RES,residential,10.15,cents per kilowatthour
+736,2021-12,VT,Vermont,RES,residential,19.58,cents per kilowatthour
+737,2021-12,WY,Wyoming,RES,residential,10.6,cents per kilowatthour
+738,2021-05,PACN,Pacific Noncontiguous,RES,residential,29.07,cents per kilowatthour
+739,2021-06,WV,West Virginia,RES,residential,12.21,cents per kilowatthour
+740,2021-06,WI,Wisconsin,RES,residential,14.68,cents per kilowatthour
+741,2021-06,WY,Wyoming,RES,residential,12.03,cents per kilowatthour
+742,2021-12,WNC,West North Central,RES,residential,11.39,cents per kilowatthour
+743,2021-12,SAT,South Atlantic,RES,residential,12.1,cents per kilowatthour
+744,2021-05,WY,Wyoming,RES,residential,11.41,cents per kilowatthour
+745,2021-06,OK,Oklahoma,RES,residential,11.29,cents per kilowatthour
+746,2021-12,ESC,East South Central,RES,residential,11.25,cents per kilowatthour
+747,2021-06,TN,Tennessee,RES,residential,11.36,cents per kilowatthour
+748,2021-06,HI,Hawaii,RES,residential,32.97,cents per kilowatthour
+749,2021-06,ID,Idaho,RES,residential,9.93,cents per kilowatthour
+750,2021-12,TN,Tennessee,RES,residential,11.56,cents per kilowatthour
+751,2021-12,TX,Texas,RES,residential,12.56,cents per kilowatthour
+752,2021-12,VA,Virginia,RES,residential,11.71,cents per kilowatthour
+753,2021-12,WA,Washington,RES,residential,10.09,cents per kilowatthour
+754,2021-12,IL,Illinois,RES,residential,13.4,cents per kilowatthour
+755,2021-07,NJ,New Jersey,RES,residential,16.94,cents per kilowatthour
+756,2021-07,NM,New Mexico,RES,residential,14.39,cents per kilowatthour
+757,2021-07,NY,New York,RES,residential,19.64,cents per kilowatthour
+758,2021-07,NC,North Carolina,RES,residential,11.38,cents per kilowatthour
+759,2021-07,ND,North Dakota,RES,residential,12.25,cents per kilowatthour
+760,2021-07,OH,Ohio,RES,residential,13.08,cents per kilowatthour
+761,2021-07,OK,Oklahoma,RES,residential,11.19,cents per kilowatthour
+762,2021-11,SD,South Dakota,RES,residential,11.94,cents per kilowatthour
+763,2020-02,MI,Michigan,RES,residential,15.77,cents per kilowatthour
+764,2020-02,MN,Minnesota,RES,residential,12.48,cents per kilowatthour
+765,2021-06,NJ,New Jersey,RES,residential,16.38,cents per kilowatthour
+766,2021-06,NM,New Mexico,RES,residential,13.88,cents per kilowatthour
+767,2021-06,NE,Nebraska,RES,residential,11.25,cents per kilowatthour
+768,2021-04,NH,New Hampshire,RES,residential,19.81,cents per kilowatthour
+769,2021-04,NJ,New Jersey,RES,residential,16.5,cents per kilowatthour
+770,2021-05,US,U.S. Total,RES,residential,13.86,cents per kilowatthour
+771,2021-11,SC,South Carolina,RES,residential,13.78,cents per kilowatthour
+772,2021-07,AL,Alabama,RES,residential,13.23,cents per kilowatthour
+773,2021-05,WSC,West South Central,RES,residential,11.86,cents per kilowatthour
+774,2021-06,PA,Pennsylvania,RES,residential,13.99,cents per kilowatthour
+775,2021-06,OR,Oregon,RES,residential,11.51,cents per kilowatthour
+776,2021-12,ME,Maine,RES,residential,17.9,cents per kilowatthour
+777,2021-10,PACN,Pacific Noncontiguous,RES,residential,29.92,cents per kilowatthour
+778,2021-10,US,U.S. Total,RES,residential,14.06,cents per kilowatthour
+779,2021-11,AL,Alabama,RES,residential,13.3,cents per kilowatthour
+780,2021-11,AK,Alaska,RES,residential,22.56,cents per kilowatthour
+781,2021-11,AZ,Arizona,RES,residential,12.31,cents per kilowatthour
+782,2021-11,AR,Arkansas,RES,residential,11.68,cents per kilowatthour
+783,2021-04,MTN,Mountain,RES,residential,11.84,cents per kilowatthour
+784,2021-04,PACC,Pacific Contiguous,RES,residential,17.53,cents per kilowatthour
+785,2021-04,PACN,Pacific Noncontiguous,RES,residential,28.19,cents per kilowatthour
+786,2021-04,US,U.S. Total,RES,residential,13.73,cents per kilowatthour
+787,2020-09,AL,Alabama,RES,residential,13.09,cents per kilowatthour
+788,2021-11,PACC,Pacific Contiguous,RES,residential,17.93,cents per kilowatthour
+789,2021-11,PACN,Pacific Noncontiguous,RES,residential,29.21,cents per kilowatthour
+790,2021-11,US,U.S. Total,RES,residential,14.07,cents per kilowatthour
+791,2021-07,OR,Oregon,RES,residential,11.53,cents per kilowatthour
+792,2021-07,PA,Pennsylvania,RES,residential,13.7,cents per kilowatthour
+793,2021-07,RI,Rhode Island,RES,residential,20.51,cents per kilowatthour
+794,2021-07,ID,Idaho,RES,residential,10.39,cents per kilowatthour
+795,2021-07,IL,Illinois,RES,residential,12.68,cents per kilowatthour
+796,2021-07,IN,Indiana,RES,residential,13.34,cents per kilowatthour
+797,2021-07,IA,Iowa,RES,residential,14.39,cents per kilowatthour
+798,2021-07,KS,Kansas,RES,residential,13.12,cents per kilowatthour
+799,2021-07,KY,Kentucky,RES,residential,11.59,cents per kilowatthour
+800,2021-07,LA,Louisiana,RES,residential,10.9,cents per kilowatthour
+801,2021-07,ME,Maine,RES,residential,16.37,cents per kilowatthour
+802,2021-07,MD,Maryland,RES,residential,12.95,cents per kilowatthour
+803,2021-07,MA,Massachusetts,RES,residential,22.88,cents per kilowatthour
+804,2021-11,TN,Tennessee,RES,residential,11.61,cents per kilowatthour
+805,2021-11,TX,Texas,RES,residential,12.78,cents per kilowatthour
+806,2021-11,UT,Utah,RES,residential,10.21,cents per kilowatthour
+807,2021-11,VT,Vermont,RES,residential,20.13,cents per kilowatthour
+808,2021-11,VA,Virginia,RES,residential,11.81,cents per kilowatthour
+809,2021-07,CA,California,RES,residential,22.49,cents per kilowatthour
+810,2021-07,CO,Colorado,RES,residential,13.39,cents per kilowatthour
+811,2021-07,CT,Connecticut,RES,residential,22.1,cents per kilowatthour
+812,2021-07,DE,Delaware,RES,residential,11.84,cents per kilowatthour
+813,2021-07,DC,District of Columbia,RES,residential,12.87,cents per kilowatthour
+814,2021-07,FL,Florida,RES,residential,11.78,cents per kilowatthour
+815,2020-02,MS,Mississippi,RES,residential,11.05,cents per kilowatthour
+816,2021-07,GA,Georgia,RES,residential,13.47,cents per kilowatthour
+817,2021-07,HI,Hawaii,RES,residential,33.48,cents per kilowatthour
+818,2020-07,IA,Iowa,RES,residential,14.28,cents per kilowatthour
+819,2020-07,KS,Kansas,RES,residential,12.91,cents per kilowatthour
+820,2020-07,KY,Kentucky,RES,residential,10.54,cents per kilowatthour
+821,2020-07,LA,Louisiana,RES,residential,9.53,cents per kilowatthour
+822,2020-07,ME,Maine,RES,residential,16.85,cents per kilowatthour
+823,2020-07,MD,Maryland,RES,residential,12.22,cents per kilowatthour
+824,2020-08,DE,Delaware,RES,residential,12.01,cents per kilowatthour
+825,2020-08,DC,District of Columbia,RES,residential,12.12,cents per kilowatthour
+826,2020-08,FL,Florida,RES,residential,11.28,cents per kilowatthour
+827,2020-08,GA,Georgia,RES,residential,13.07,cents per kilowatthour
+828,2020-09,AR,Arkansas,RES,residential,10.85,cents per kilowatthour
+829,2020-02,NJ,New Jersey,RES,residential,15.7,cents per kilowatthour
+830,2020-02,NM,New Mexico,RES,residential,12.39,cents per kilowatthour
+831,2020-02,NY,New York,RES,residential,17.46,cents per kilowatthour
+832,2020-02,NC,North Carolina,RES,residential,11.36,cents per kilowatthour
+833,2020-02,ND,North Dakota,RES,residential,9.25,cents per kilowatthour
+834,2020-02,OH,Ohio,RES,residential,11.82,cents per kilowatthour
+835,2020-07,CA,California,RES,residential,20.03,cents per kilowatthour
+836,2020-07,CO,Colorado,RES,residential,12.69,cents per kilowatthour
+837,2020-07,CT,Connecticut,RES,residential,22.35,cents per kilowatthour
+838,2020-07,DE,Delaware,RES,residential,11.77,cents per kilowatthour
+839,2020-07,DC,District of Columbia,RES,residential,11.81,cents per kilowatthour
+840,2020-07,FL,Florida,RES,residential,11.37,cents per kilowatthour
+841,2020-08,AZ,Arizona,RES,residential,12.24,cents per kilowatthour
+842,2021-07,AK,Alaska,RES,residential,23.39,cents per kilowatthour
+843,2021-04,NC,North Carolina,RES,residential,11.51,cents per kilowatthour
+844,2021-07,AZ,Arizona,RES,residential,12.64,cents per kilowatthour
+845,2021-07,AR,Arkansas,RES,residential,11.55,cents per kilowatthour
+846,2020-02,SC,South Carolina,RES,residential,12.51,cents per kilowatthour
+847,2021-10,NC,North Carolina,RES,residential,12.1,cents per kilowatthour
+848,2021-10,ND,North Dakota,RES,residential,11.63,cents per kilowatthour
+849,2021-10,OH,Ohio,RES,residential,13.28,cents per kilowatthour
+850,2021-10,OK,Oklahoma,RES,residential,12.91,cents per kilowatthour
+851,2021-10,OR,Oregon,RES,residential,11.77,cents per kilowatthour
+852,2021-10,PA,Pennsylvania,RES,residential,14.49,cents per kilowatthour
+853,2021-10,RI,Rhode Island,RES,residential,22.39,cents per kilowatthour
+854,2021-11,CA,California,RES,residential,23.87,cents per kilowatthour
+855,2021-11,CO,Colorado,RES,residential,13.77,cents per kilowatthour
+856,2021-11,CT,Connecticut,RES,residential,21.4,cents per kilowatthour
+857,2021-11,DE,Delaware,RES,residential,13.86,cents per kilowatthour
+858,2021-11,DC,District of Columbia,RES,residential,14.07,cents per kilowatthour
+859,2021-10,SC,South Carolina,RES,residential,13.49,cents per kilowatthour
+860,2021-11,FL,Florida,RES,residential,12.49,cents per kilowatthour
+861,2021-10,SD,South Dakota,RES,residential,12.67,cents per kilowatthour
+862,2021-10,TN,Tennessee,RES,residential,11.43,cents per kilowatthour
+863,2021-10,TX,Texas,RES,residential,12.54,cents per kilowatthour
+864,2021-10,UT,Utah,RES,residential,10.46,cents per kilowatthour
+865,2021-10,VT,Vermont,RES,residential,20.55,cents per kilowatthour
+866,2021-10,VA,Virginia,RES,residential,12.37,cents per kilowatthour
+867,2021-10,WA,Washington,RES,residential,10.39,cents per kilowatthour
+868,2021-10,WV,West Virginia,RES,residential,13.66,cents per kilowatthour
+869,2021-10,WI,Wisconsin,RES,residential,14.92,cents per kilowatthour
+870,2021-07,SC,South Carolina,RES,residential,12.6,cents per kilowatthour
+871,2021-07,SD,South Dakota,RES,residential,12.83,cents per kilowatthour
+872,2021-07,TN,Tennessee,RES,residential,11.17,cents per kilowatthour
+873,2021-07,TX,Texas,RES,residential,11.73,cents per kilowatthour
+874,2021-07,UT,Utah,RES,residential,10.93,cents per kilowatthour
+875,2021-07,VT,Vermont,RES,residential,18.97,cents per kilowatthour
+876,2021-07,VA,Virginia,RES,residential,12.53,cents per kilowatthour
+877,2021-07,WA,Washington,RES,residential,10.26,cents per kilowatthour
+878,2021-07,WV,West Virginia,RES,residential,12.1,cents per kilowatthour
+879,2021-07,WI,Wisconsin,RES,residential,14.54,cents per kilowatthour
+880,2021-07,WY,Wyoming,RES,residential,11.69,cents per kilowatthour
+881,2021-07,NEW,New England,RES,residential,21.37,cents per kilowatthour
+882,2021-07,MAT,Middle Atlantic,RES,residential,16.75,cents per kilowatthour
+883,2020-08,AR,Arkansas,RES,residential,10.47,cents per kilowatthour
+884,2020-08,CA,California,RES,residential,20.69,cents per kilowatthour
+885,2021-04,WNC,West North Central,RES,residential,12.13,cents per kilowatthour
+886,2021-04,SAT,South Atlantic,RES,residential,12.06,cents per kilowatthour
+887,2021-04,ESC,East South Central,RES,residential,12.26,cents per kilowatthour
+888,2021-04,WSC,West South Central,RES,residential,11.79,cents per kilowatthour
+889,2021-04,NM,New Mexico,RES,residential,12.96,cents per kilowatthour
+890,2021-04,NY,New York,RES,residential,18.55,cents per kilowatthour
+891,2021-10,PACC,Pacific Contiguous,RES,residential,17.6,cents per kilowatthour
+892,2021-11,WA,Washington,RES,residential,10.22,cents per kilowatthour
+893,2021-11,WV,West Virginia,RES,residential,12.89,cents per kilowatthour
+894,2021-11,WI,Wisconsin,RES,residential,14.7,cents per kilowatthour
+895,2021-11,WY,Wyoming,RES,residential,10.93,cents per kilowatthour
+896,2021-04,NE,Nebraska,RES,residential,11.48,cents per kilowatthour
+897,2021-04,NV,Nevada,RES,residential,12.16,cents per kilowatthour
+898,2021-04,ND,North Dakota,RES,residential,10.82,cents per kilowatthour
+899,2021-04,OH,Ohio,RES,residential,13.11,cents per kilowatthour
+900,2021-04,OK,Oklahoma,RES,residential,11.41,cents per kilowatthour
+901,2021-04,OR,Oregon,RES,residential,11.37,cents per kilowatthour
+902,2021-04,PA,Pennsylvania,RES,residential,13.73,cents per kilowatthour
+903,2021-04,RI,Rhode Island,RES,residential,23.54,cents per kilowatthour
+904,2021-04,SC,South Carolina,RES,residential,12.99,cents per kilowatthour
+905,2021-04,SD,South Dakota,RES,residential,11.93,cents per kilowatthour
+906,2021-04,TN,Tennessee,RES,residential,11.51,cents per kilowatthour
+907,2021-04,TX,Texas,RES,residential,12.08,cents per kilowatthour
+908,2020-07,MI,Michigan,RES,residential,16.25,cents per kilowatthour
+909,2020-07,MN,Minnesota,RES,residential,13.6,cents per kilowatthour
+910,2020-02,OK,Oklahoma,RES,residential,9.45,cents per kilowatthour
+911,2020-02,OR,Oregon,RES,residential,10.93,cents per kilowatthour
+912,2021-11,GA,Georgia,RES,residential,12.27,cents per kilowatthour
+913,2021-11,HI,Hawaii,RES,residential,34.74,cents per kilowatthour
+914,2021-11,ID,Idaho,RES,residential,10.19,cents per kilowatthour
+915,2021-11,IL,Illinois,RES,residential,14.33,cents per kilowatthour
+916,2021-11,IN,Indiana,RES,residential,14.27,cents per kilowatthour
+917,2021-11,IA,Iowa,RES,residential,12.22,cents per kilowatthour
+918,2021-11,KS,Kansas,RES,residential,13.37,cents per kilowatthour
+919,2021-11,KY,Kentucky,RES,residential,12.49,cents per kilowatthour
+920,2021-11,WSC,West South Central,RES,residential,12.41,cents per kilowatthour
+921,2021-11,MTN,Mountain,RES,residential,12.16,cents per kilowatthour
+922,2021-04,UT,Utah,RES,residential,9.99,cents per kilowatthour
+923,2021-04,VT,Vermont,RES,residential,19.46,cents per kilowatthour
+924,2021-04,VA,Virginia,RES,residential,12.66,cents per kilowatthour
+925,2021-04,WA,Washington,RES,residential,10.14,cents per kilowatthour
+926,2021-04,WV,West Virginia,RES,residential,12.42,cents per kilowatthour
+927,2021-04,WI,Wisconsin,RES,residential,14.59,cents per kilowatthour
+928,2021-04,WY,Wyoming,RES,residential,11.08,cents per kilowatthour
+929,2020-02,MO,Missouri,RES,residential,9.69,cents per kilowatthour
+930,2020-02,MT,Montana,RES,residential,11.03,cents per kilowatthour
+931,2020-07,MA,Massachusetts,RES,residential,21.26,cents per kilowatthour
+932,2021-04,NEW,New England,RES,residential,22.1,cents per kilowatthour
+933,2021-04,MAT,Middle Atlantic,RES,residential,16.18,cents per kilowatthour
+934,2021-04,ENC,East North Central,RES,residential,14.49,cents per kilowatthour
+935,2020-02,NV,Nevada,RES,residential,11.98,cents per kilowatthour
+936,2020-02,NH,New Hampshire,RES,residential,19.69,cents per kilowatthour
+937,2021-10,WY,Wyoming,RES,residential,11.66,cents per kilowatthour
+938,2021-10,NEW,New England,RES,residential,21.9,cents per kilowatthour
+939,2021-10,MAT,Middle Atlantic,RES,residential,17.31,cents per kilowatthour
+940,2021-10,ENC,East North Central,RES,residential,14.72,cents per kilowatthour
+941,2021-10,WNC,West North Central,RES,residential,12.39,cents per kilowatthour
+942,2021-10,SAT,South Atlantic,RES,residential,12.57,cents per kilowatthour
+943,2021-10,ESC,East South Central,RES,residential,12.28,cents per kilowatthour
+944,2021-10,WSC,West South Central,RES,residential,12.39,cents per kilowatthour
+945,2021-10,MTN,Mountain,RES,residential,12.51,cents per kilowatthour
+946,2021-11,NEW,New England,RES,residential,21.87,cents per kilowatthour
+947,2021-11,MAT,Middle Atlantic,RES,residential,16.72,cents per kilowatthour
+948,2021-11,ENC,East North Central,RES,residential,14.64,cents per kilowatthour
+949,2021-11,WNC,West North Central,RES,residential,12.01,cents per kilowatthour
+950,2021-11,SAT,South Atlantic,RES,residential,12.44,cents per kilowatthour
+951,2021-11,ESC,East South Central,RES,residential,12.36,cents per kilowatthour
+952,2020-07,MS,Mississippi,RES,residential,10.78,cents per kilowatthour
+953,2020-07,MO,Missouri,RES,residential,12.85,cents per kilowatthour
+954,2020-07,MT,Montana,RES,residential,11.76,cents per kilowatthour
+955,2020-08,HI,Hawaii,RES,residential,28.85,cents per kilowatthour
+956,2020-08,ID,Idaho,RES,residential,10.35,cents per kilowatthour
+957,2020-08,IL,Illinois,RES,residential,12.56,cents per kilowatthour
+958,2020-09,CA,California,RES,residential,21.16,cents per kilowatthour
+959,2020-09,CO,Colorado,RES,residential,13.07,cents per kilowatthour
+960,2021-11,MN,Minnesota,RES,residential,13.54,cents per kilowatthour
+961,2021-11,MS,Mississippi,RES,residential,12.23,cents per kilowatthour
+962,2021-11,MO,Missouri,RES,residential,10.92,cents per kilowatthour
+963,2021-11,MT,Montana,RES,residential,11.38,cents per kilowatthour
+964,2021-11,NE,Nebraska,RES,residential,10.83,cents per kilowatthour
+965,2021-11,NV,Nevada,RES,residential,12.67,cents per kilowatthour
+966,2021-11,NH,New Hampshire,RES,residential,21.16,cents per kilowatthour
+967,2021-11,NJ,New Jersey,RES,residential,16.13,cents per kilowatthour
+968,2021-11,NM,New Mexico,RES,residential,13.52,cents per kilowatthour
+969,2021-03,WY,Wyoming,RES,residential,10.76,cents per kilowatthour
+970,2021-03,NEW,New England,RES,residential,21.62,cents per kilowatthour
+971,2021-03,MAT,Middle Atlantic,RES,residential,15.58,cents per kilowatthour
+972,2021-03,ENC,East North Central,RES,residential,13.96,cents per kilowatthour
+973,2020-02,LA,Louisiana,RES,residential,9.07,cents per kilowatthour
+974,2020-02,ME,Maine,RES,residential,17.04,cents per kilowatthour
+975,2020-02,MD,Maryland,RES,residential,13.35,cents per kilowatthour
+976,2020-02,MA,Massachusetts,RES,residential,23.02,cents per kilowatthour
+977,2020-07,GA,Georgia,RES,residential,12.84,cents per kilowatthour
+978,2020-07,HI,Hawaii,RES,residential,28.86,cents per kilowatthour
+979,2020-07,ID,Idaho,RES,residential,10.76,cents per kilowatthour
+980,2020-07,IL,Illinois,RES,residential,12.18,cents per kilowatthour
+981,2020-07,IN,Indiana,RES,residential,12.51,cents per kilowatthour
+982,2020-08,CO,Colorado,RES,residential,12.71,cents per kilowatthour
+983,2020-08,CT,Connecticut,RES,residential,22.38,cents per kilowatthour
+984,2020-09,AK,Alaska,RES,residential,23.18,cents per kilowatthour
+985,2020-09,AZ,Arizona,RES,residential,12.38,cents per kilowatthour
+986,2020-02,KY,Kentucky,RES,residential,10.5,cents per kilowatthour
+987,2021-10,MS,Mississippi,RES,residential,11.8,cents per kilowatthour
+988,2021-10,MO,Missouri,RES,residential,11.2,cents per kilowatthour
+989,2021-10,MT,Montana,RES,residential,11.71,cents per kilowatthour
+990,2021-10,NE,Nebraska,RES,residential,11.35,cents per kilowatthour
+991,2021-10,NV,Nevada,RES,residential,12.58,cents per kilowatthour
+992,2021-10,NH,New Hampshire,RES,residential,21.06,cents per kilowatthour
+993,2020-02,NE,Nebraska,RES,residential,9.81,cents per kilowatthour
+994,2021-10,NJ,New Jersey,RES,residential,16.18,cents per kilowatthour
+995,2021-10,NM,New Mexico,RES,residential,13.62,cents per kilowatthour
+996,2021-10,NY,New York,RES,residential,20.66,cents per kilowatthour
+997,2021-11,NY,New York,RES,residential,20.09,cents per kilowatthour
+998,2021-11,NC,North Carolina,RES,residential,11.44,cents per kilowatthour
+999,2021-11,ND,North Dakota,RES,residential,10.91,cents per kilowatthour
